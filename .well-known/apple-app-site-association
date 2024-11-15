@@ -5,6 +5,10 @@
         "appID": "972U4NXUHR.ua.zubrin.AppLinksCheck2",
         "components": [
           {
+            "/": "/basic.html",
+            "comment": "Intersepts opening of the basic page"
+          },
+          {
             "/": "/basic.html?r=/be-frank",
             "comment": "Intersepts opening of the basic page"
           },
