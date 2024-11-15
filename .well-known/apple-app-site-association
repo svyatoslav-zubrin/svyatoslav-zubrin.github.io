@@ -11,10 +11,6 @@
           {
             "/": "/basic.html?r=/be-frank",
             "comment": "Intersepts opening of the basic page"
-          },
-          {
-            "/": "/basic.html?r=%2Fbe-frank",
-            "comment": "Intersepts opening of the basic page"
           }
         ]
       }
